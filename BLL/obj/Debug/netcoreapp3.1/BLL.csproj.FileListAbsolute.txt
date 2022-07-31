@@ -1,0 +1,13 @@
+C:\לימודים\פרויקט גמר\DAL\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\לימודים\פרויקט גמר\DAL\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\לימודים\פרויקט גמר\DAL\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\לימודים\פרויקט גמר\DAL\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\לימודים\פרויקט גמר\DAL\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\לימודים\פרויקט גמר\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+C:\לימודים\פרויקט גמר\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים\פרויקט גמר\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\לימודים\פרויקט גמר\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\לימודים\פרויקט גמר\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\לימודים\פרויקט גמר\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\לימודים\פרויקט גמר\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\לימודים\פרויקט גמר\DAL\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
